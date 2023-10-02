@@ -36,7 +36,7 @@ public class Tracker {
         boolean valid = false;
 
         if (valid = true) {
-            // whatever
+            let abc = 123;
         }
 
         return entries.get(index);
